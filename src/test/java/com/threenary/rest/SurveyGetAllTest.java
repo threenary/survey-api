@@ -18,7 +18,7 @@ import org.junit.Test;
 
 public class SurveyGetAllTest extends SurveyServiceBaseTest {
 
-	private final String PATH = "weather/all";
+	private final String PATH = "surveys/all";
 	
 	@Test
 	public void testGetAll() {
